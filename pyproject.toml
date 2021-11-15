@@ -1,9 +1,19 @@
 [tool.poetry]
 name = "py3a"
-version = "0.2.1"
+version = "0.2.2"
 description = "Lib for reading and writing 3a format"
 authors = ["DomesticMoth"]
-license = "License :: OSI Approved :: GNU General Public License v3 (GPLv3)"
+license = "GPLv3"
+readme = "README.md"
+homepage = "https://github.com/DomesticMoth/py3a"
+repository = "https://github.com/DomesticMoth/py3a"
+classifiers = [
+    "Environment :: Console",
+    "License :: OSI Approved :: GNU General Public License v3 (GPLv3)"
+]
+include = [
+    "LICENSE",
+]
 
 [tool.poetry.dependencies]
 python = "^3.7"
