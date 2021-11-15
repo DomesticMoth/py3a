@@ -138,7 +138,7 @@ iVG.vOv5uWkulYY#GT[&Tm77777777777777777777770000000000000000000000
 U0DC_D-@ml4[7sP7&)C9Q>77777777777777777777770000000000000000000000"""
 
 def test_version():
-    assert __version__ == '0.2.2'
+    assert __version__ == '1.0.0'
 
 def test_remove_comments():
     assert remove_comments(WITH_COMMENTS) == WITHOUT_COMMENTS

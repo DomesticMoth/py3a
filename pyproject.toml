@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "py3a"
-version = "0.2.2"
+version = "1.0.0"
 description = "Lib for reading and writing 3a format"
 authors = ["DomesticMoth"]
 license = "GPLv3"
