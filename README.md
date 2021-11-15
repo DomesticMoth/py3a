@@ -48,7 +48,7 @@ if __name__ == "__main__":
     print(art.header)
 ```
 ## Short API description
-### Structs
+### Classes
 The core of the library is the Art class, which implements the 3a structure:  
 ```python
 class Art:
