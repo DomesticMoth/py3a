@@ -4,7 +4,7 @@ This lib on [pypi](https://pypi.org/project/py3a)
 - [Usage](#usage)
 - [Short API description](#short-api-description)
   - [Classes](#classes)
-  - [Functions](#functions)
+  - [Methods](#methods)
 ## Usage
 Install  
 ```
@@ -56,7 +56,7 @@ class Art:
         self.header = header
         self.body = body
 ```
-Header type contains information about the header of 3a file:  
+Header class contains information about the header of 3a file:  
 ```python
 class Header:
     def __init__ (self, width: int, height: int, delay: int, loop_enable: bool, color_mod: ColorMod,
