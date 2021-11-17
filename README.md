@@ -3,7 +3,7 @@ This library provides a structural representation of [3a ascii animations format
 This lib on [pypi](https://pypi.org/project/py3a) 
 - [Usage](#usage)
 - [Short API description](#short-api-description)
-  - [Structs](#structs)
+  - [Classes](#classes)
   - [Functions](#functions)
 ## Usage
 Install  
